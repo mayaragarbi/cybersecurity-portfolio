@@ -1,5 +1,9 @@
 # 🔐 Cybersecurity Portfolio
 
+<p align="ccenter">
+ <img src="./cyber-banner.png" width="90%" alt="Cbersecurity portfolio banner">
+</p>
+
 > Building my path into cybersecurity through hands-on learning, technical projects, and continuous development.
 
 Welcome to my cybersecurity portfolio.
