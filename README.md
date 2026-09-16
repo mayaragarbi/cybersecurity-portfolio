@@ -64,6 +64,8 @@ I'm currently strengthening my knowledge in:
 
 Security controls and compliance assessment based on a fictional business scenario, covering PCI DSS, GDPR, SOC, security controls, risk assessment, and recommendations.
 
+**Skills:** Security Auditing · Risk Assessment · Compliance · NIST CSF · CIA Triad
+
 [View the project](./projects/botium-toys-security-audit/)
 
 ### Google Cybersecurity Professional Certificate
