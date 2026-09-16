@@ -65,7 +65,7 @@ This section will grow as I progress through my studies and build new practical 
 ### Google Cybersecurity Professional Certificate
 
 * [x] Professional Statement
-* [ ] Security Audit
+* [x] Security Audit
 * [ ] Linux & File Permissions
 * [ ] SQL Security Queries
 * [ ] Incident Response Analysis
