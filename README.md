@@ -60,7 +60,11 @@ I'm currently strengthening my knowledge in:
 
 ## Portfolio Projects
 
-This section will grow as I progress through my studies and build new practical projects.
+### Botium Toys Security Audit
+
+Security controls and compliance assessment based on a fictional business scenario, covering PCI DSS, GDPR, SOC, security controls, risk assessment, and recommendations.
+
+[View the project](./projects/botium-toys-security-audit/)
 
 ### Google Cybersecurity Professional Certificate
 
